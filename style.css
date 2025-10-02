@@ -1,11 +1,11 @@
 body {
-    background-color: #FFFFE0; /* Light Yellow */
+    background-color: #E6E6FA; /* Lavender */
     font-family: Arial, sans-serif;
-    color: #191970; /* Midnight Blue */
+    color: #4B0082; /* Indigo */
 }
 
 .kartu-profil img {
-    width: 200px;
+    width: 150px;
     border-radius: 50%;
 }
 
@@ -15,6 +15,6 @@ body {
     padding: 20px;
     background-color: white;
     border-radius: 15px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(75, 0, 130, 0.2); /* Shadow ungu */
     text-align: center;
 }
